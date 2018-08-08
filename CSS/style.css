@@ -1,0 +1,19 @@
+/* ********************* */
+/* Utils */
+/* ********************* */
+
+.flex-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.fraise{
+    height: 100px;
+    background-color: crimson;
+}
+.contain{
+    height:200px;
+    flex-direction: column;
+}
